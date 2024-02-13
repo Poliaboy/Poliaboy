@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data and AI at ESILV**
 
-- 📫 How to reach me **szpakiewicz.alex@gmail.com**
+- 📫 You can reach me at **szpakiewicz.alex@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
