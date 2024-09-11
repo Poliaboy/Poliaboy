@@ -13,7 +13,7 @@
 
 <br><br>
 
-- :school: I am a `4th year` at [ESILV](https://www.esilv.fr/) with the major [Data & AI](https://www.esilv.fr/formations/cycle-ingenieur/majeures/data-et-intelligence-artificielle/).
+- :school: I am a `5th year` at [ESILV](https://www.esilv.fr/) with the major [Data & AI](https://www.esilv.fr/formations/cycle-ingenieur/majeures/data-et-intelligence-artificielle/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science`, `Machine Learning` and `AI`.
 - :nerd_face: Always `learning new things`.
