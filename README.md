@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Alex Szpakiewicz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&center=true&vCenter=true&random=false&width=700&height=100&lines=Computer+science+student;Ai+and+Machine+Learning+enthusiast;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&center=true&vCenter=true&random=false&width=700&height=100&lines=Computer+science+student;Ai+and+Deep+Learning+enthusiast;Always+learning+new+things"></a>
 </p>
 
 
